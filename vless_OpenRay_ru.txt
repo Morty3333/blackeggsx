@@ -1,1 +1,1 @@
-11111
+vless://5f21b8d8-922b-48dd-a335-b58005473fbd@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#key_v2_1050
