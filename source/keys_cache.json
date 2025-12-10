@@ -1,0 +1,10 @@
+{
+  "timestamp": 1765305946.2990367,
+  "keys": [
+    {
+      "name": "key_v2_1050",
+      "url": "vless://5f21b8d8-922b-48dd-a335-b58005473fbd@free-key.tunnely.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=free-key.tunnely.ru&fp=&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=2e40144ddc07e8e1#key_v2_1050"
+    }
+  ],
+  "etag": "\"53d27e40433835824187d753cc5099f6d85e70985763f7b93fedc74eb0da60fd\""
+}

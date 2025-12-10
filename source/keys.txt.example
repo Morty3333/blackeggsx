@@ -1,0 +1,18 @@
+# Пример файла с VLESS ключами
+# Каждая строка должна содержать VLESS URL
+# Имя сервера можно указать после символа # в конце URL
+
+# Пример 1: Базовый TCP с TLS
+vless://uuid-здесь@server.com:443?security=tls&sni=server.com#Мой Сервер 1
+
+# Пример 2: WebSocket
+vless://uuid-здесь@server.com:443?type=ws&path=/path&security=tls&sni=server.com#WebSocket Сервер
+
+# Пример 3: gRPC
+vless://uuid-здесь@server.com:443?type=grpc&serviceName=service&security=tls&sni=server.com#gRPC Сервер
+
+# Вы можете добавить свои ключи в этот файл
+# Скопируйте этот файл в keys.txt и добавьте свои ключи
+
+
+
